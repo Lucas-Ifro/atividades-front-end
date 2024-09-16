@@ -1,0 +1,9 @@
+{
+    "reservas":[
+        {"id":1, "sala":"informática 1"},
+        {"id":2, "sala":"informática 4"},
+        {"id":3, "sala":"Geografia 1"},
+        {"id":4, "sala":"história 1"}
+
+    ]
+}

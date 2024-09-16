@@ -1,0 +1,221 @@
+{
+  "bens": [
+    {
+      "id": 1,
+      "nome": "Laptop",
+      "valor": 2500,
+      "categoria": "Eletrônicos",
+      "quantidade": 10
+    },
+    {
+      "id": 2,
+      "nome": "Smartphone",
+      "valor": 1500,
+      "categoria": "Eletrônicos",
+      "quantidade": 25
+    },
+    {
+      "id": 3,
+      "nome": "Cadeira de Escritório",
+      "valor": 800,
+      "categoria": "Móveis",
+      "quantidade": 15
+    },
+    {
+      "id": 4,
+      "nome": "Mesa de Jantar",
+      "valor": 1200,
+      "categoria": "Móveis",
+      "quantidade": 8
+    },
+    {
+      "id": 5,
+      "nome": "Impressora",
+      "valor": 400,
+      "categoria": "Eletrônicos",
+      "quantidade": 5
+    },
+    {
+      "id": 6,
+      "nome": "Micro-ondas",
+      "valor": 300,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 12
+    },
+    {
+      "id": 7,
+      "nome": "Geladeira",
+      "valor": 2000,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 7
+    },
+    {
+      "id": 8,
+      "nome": "Televisão",
+      "valor": 1800,
+      "categoria": "Eletrônicos",
+      "quantidade": 9
+    },
+    {
+      "id": 9,
+      "nome": "Aspirador de Poeira",
+      "valor": 450,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 20
+    },
+    {
+      "id": 10,
+      "nome": "Fogão",
+      "valor": 900,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 6
+    },
+    {
+      "id": 11,
+      "nome": "Sofá",
+      "valor": 1500,
+      "categoria": "Móveis",
+      "quantidade": 5
+    },
+    {
+      "id": 12,
+      "nome": "Estante",
+      "valor": 500,
+      "categoria": "Móveis",
+      "quantidade": 14
+    },
+    {
+      "id": 13,
+      "nome": "Notebook",
+      "valor": 2200,
+      "categoria": "Eletrônicos",
+      "quantidade": 11
+    },
+    {
+      "id": 14,
+      "nome": "Cafeteira",
+      "valor": 150,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 25
+    },
+    {
+      "id": 15,
+      "nome": "Ar-condicionado",
+      "valor": 3000,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 4
+    },
+    {
+      "id": 16,
+      "nome": "Roupeiro",
+      "valor": 900,
+      "categoria": "Móveis",
+      "quantidade": 9
+    },
+    {
+      "id": 17,
+      "nome": "Torradeira",
+      "valor": 120,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 18
+    },
+    {
+      "id": 18,
+      "nome": "Rádio",
+      "valor": 200,
+      "categoria": "Eletrônicos",
+      "quantidade": 22
+    },
+    {
+      "id": 19,
+      "nome": "Micro-ondas",
+      "valor": 350,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 8
+    },
+    {
+      "id": 20,
+      "nome": "Ventilador",
+      "valor": 150,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 30
+    },
+    {
+      "id": 21,
+      "nome": "Mesa de Café",
+      "valor": 450,
+      "categoria": "Móveis",
+      "quantidade": 12
+    },
+    {
+      "id": 22,
+      "nome": "Cadeira de Jantar",
+      "valor": 220,
+      "categoria": "Móveis",
+      "quantidade": 16
+    },
+    {
+      "id": 23,
+      "nome": "Televisor",
+      "valor": 1700,
+      "categoria": "Eletrônicos",
+      "quantidade": 7
+    },
+    {
+      "id": 24,
+      "nome": "Fogão Elétrico",
+      "valor": 1100,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 5
+    },
+    {
+      "id": 25,
+      "nome": "Lava-louças",
+      "valor": 2000,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 3
+    },
+    {
+      "id": 26,
+      "nome": "Comoda",
+      "valor": 750,
+      "categoria": "Móveis",
+      "quantidade": 10
+    },
+    {
+      "id": 27,
+      "nome": "Relógio Inteligente",
+      "valor": 600,
+      "categoria": "Eletrônicos",
+      "quantidade": 13
+    },
+    {
+      "id": 28,
+      "nome": "Secador de Cabelo",
+      "valor": 100,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 27
+    },
+    {
+      "id": 29,
+      "nome": "Aquecedor",
+      "valor": 250,
+      "categoria": "Eletrodomésticos",
+      "quantidade": 15
+    },
+    {
+      "id": "d34e",
+      "nome": "test",
+      "valor": "1",
+      "categoria": "sdf",
+      "quantidade": "1"
+    },
+    {
+      "id": "affa",
+      "nome": "test",
+      "valor": "123",
+      "categoria": "sdf",
+      "quantidade": "123"
+    }
+  ]
+}
