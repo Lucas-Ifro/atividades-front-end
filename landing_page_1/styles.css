@@ -1,0 +1,185 @@
+/*https://www.behance.net/gallery/187207875/Travel-Landing-Page*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    background-color: var(--cor-fundo);
+}
+
+:root{
+    --font-titulo: "Exo 2", sans-serif;
+
+    --cor-fundo: #f3f3f3;
+    --cor-titulo: #24c2b5;
+    --cor-logo: #353535;
+    --cor-input: #f5e723;
+}
+header{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+
+    max-width: 80vw;
+    margin: auto;
+}
+header h1{
+    margin-right: 20%;
+    color: var(--cor-logo);
+}
+
+input{
+    border: none;
+
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: var(--cor-input);
+}
+
+li{
+    display: inline;
+    margin-left: 60px;
+}
+
+a{
+    text-decoration: none;
+    color: var(--cor-logo);
+    transition: color 200ms;
+}
+
+a:hover{
+    color: var(--cor-titulo);
+}
+
+main{
+    max-width: 80vw;
+    margin: auto;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo{
+    width: 500px;
+}
+.titulo h1{
+    font-size: 4rem;
+    font-family: var(--font-titulo);
+    font-weight: bold;
+    color: var(--cor-titulo);
+    margin-bottom: 20px;
+}
+img{
+    width: 500px;
+    
+}
+
+.linguagens{
+    display: flex;
+
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.linguagens div{
+    width: 200px;
+    text-align: center;
+}
+
+.linguagens img{
+    width: 120px;
+}
+
+.linguagens h2{
+    margin-bottom: 10px;
+}
+
+.titulo2{
+    text-align: center;
+    margin: 40px;
+    font-family: var(--font-titulo);
+    
+}
+
+
+.ias{
+    display: felx;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+.ias img{
+    width: 250px;
+    border-radius: 40px;
+}
+
+.ias h2{
+    margin-top: 10px;
+}
+
+.motivos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 100px;
+}
+
+
+.motivostext{
+    width: 550px;
+}
+
+.motivostext h1{
+    font-family: var(--font-titulo);
+    color: var(--cor-titulo);
+    font-size: 2.5rem;
+}
+
+.motivostext h3, div{
+    width: 500px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.roboimg{
+    width: 400px;
+    height: 400px;
+    background-image: url(img/robo.jpg);
+    background-position: center;
+    background-size: cover;
+
+    border-radius: 10px;
+    
+}
+
+
+
+@media (min-width: 1500px) {
+
+    header, main{
+        max-width: 60vw;
+    }
+    
+}
+
+footer{
+    margin-top: 60px;
+    padding: 30px;
+    text-align: center;
+    background-color: var(--cor-titulo);
+}
+
+footer h3{
+    background-color: var(--cor-titulo);
+    color: var(--cor-fundo);
+}

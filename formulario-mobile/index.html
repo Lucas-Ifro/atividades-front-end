@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Formulário</title>
+</head>
+<body>
+
+    <main>
+        <div>
+            
+            <div class="titulo"><h1>Inscrição</h1></div>
+    
+            <form action="">
+                <label class="block" for="nome">Nome:</label>
+                <input class="block ponteiro" type="text" id="nome" placeholder="Ex.: Maria de Oliveira">
+    
+                <label class="block" for="email">E-mail:</label>
+                <input class="block ponteiro" type="text" id="email" placeholder="Ex.: maria.oliveira@gmail.com">
+    
+                <label class="block" for="sexo">Sexo:</label>
+                <div class="sexo">
+        
+                    <input type="radio" name="sexo" id="masc">
+                    <label for="masc">Masculino</label>
+        
+                    <input type="radio" name="sexo" id="femi">
+                    <label for="femi">Feminino</label>
+                </div>
+        
+                <label class="block" for="curso">Curso:</label>
+                <input class="block ponteiro" type="text" id="curso" placeholder="HTML e CSS">
+    
+    
+                <label class="block" for="text">Descreva o atendimento especial:</label>
+                <textarea class="block" id="text" cols="30" rows="10"></textarea>
+    
+                <input type="checkbox" id="termos" class="ctermos">
+                <label for="termos">Estou de acordo com o termos de serviço</label>
+    
+                <input type="submit" value="Realizar inscrição" class="botao">
+            </form>
+            
+        </div>
+    </main>
+</body>
+</html>
